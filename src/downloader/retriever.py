@@ -3,7 +3,7 @@ from sentence_transformers import SentenceTransformer
 
 
 # IMPORTANT: Use your actual vectorstore location
-CHROMA_PATH = r"C:\legal-ai-chatbot\vectorstore"
+CHROMA_PATH = "vectorstore"
 
 COLLECTION_NAME = "uae_legal_documents"
 
