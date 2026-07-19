@@ -149,6 +149,6 @@ Delivered citation-grounded legal responses to improve answer reliability.
 
 Prajjval Pawar
 
-GitHub: https://github.com/Prajjval02
+GitHub: https://github.com/prajjvalpawar/citation-grounded-legal-chatapp
 
 LinkedIn: https://www.linkedin.com/in/prajjvalpawar/
