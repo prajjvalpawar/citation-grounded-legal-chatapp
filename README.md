@@ -101,6 +101,8 @@ What are tenant rights in Dubai?
 What are the penalties for cheque bounce cases?
 What are the legal requirements for starting a company in Dubai?
 
+
+
 📊 Why RAG Instead of a Normal LLM?
 Standard LLM	RAG Chatbot
 May hallucinate	Retrieves legal evidence
@@ -116,9 +118,13 @@ Lower reliability	Higher trustworthiness
 
 
 
+
+
 📄 Citation Response
 
 <img width="1920" height="1080" alt="Screenshot 2026-07-19 234808" src="https://github.com/user-attachments/assets/db4cb4b5-cfd8-444b-9a08-52faca9ef81b" />
+
+
 
 
 🔮 Future Enhancements
